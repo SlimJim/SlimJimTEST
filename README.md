@@ -1,2 +1,3 @@
 # SlimJimTEST
 Test for at lære at programmere lidt ...
+jeg kn skrive wuhuu
